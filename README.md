@@ -7,7 +7,6 @@
 - :email: Reach me at meddataint@gmail.com with a subject like :"...from GitHub".
 
 [![Jie's github stats](https://github-readme-stats.vercel.app/api?username=MedDataInt&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MedDataInt)](https://github.com/anuraghazra/github-readme-stats)
 
 - [Leveraging Text Mining to Address Challenges in Medical and Health Research](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2023.1195145/full)  
   Front. Endocrinol., 24 July 2023
